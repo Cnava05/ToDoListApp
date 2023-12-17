@@ -1,41 +1,66 @@
-### I. Project Description
+# Formal Outline Report: To-Do List App
 
-The to-do list app is a mobile application designed to assist users in organizing and managing their tasks on a daily, weekly, or monthly basis. The user-friendly design facilitates the creation, updating, and organization of tasks, helping users stay on top of their responsibilities.
+## I. Introduction
 
-### II. Problem Addressing
+### A. Project Description
+   1. Overview of the To-Do List App
+   2. Importance of task management in daily life
+   3. User-friendly design for easy task organization
 
-People often struggle to keep track of their activities, leading to missed deadlines and increased stress. The To-Do List app aims to address this issue by providing a modern and efficient way to manage tasks, offering features such as task creation, priority organization, and alerts.
+### B. Problem Addressing
+   1. Challenges of traditional task management methods
+   2. Aim to address issues of forgetfulness and missed deadlines
+   3. Features designed to alleviate stress and enhance productivity
 
-### III. Platform
+## II. Project Components
 
-The To-Do list application will be developed for the Android platform, ensuring accessibility for a wide range of users with varying devices and budgets.
+### A. Platform
+   1. Android platform choice
+   2. Accessibility across diverse Android devices
+   3. Consideration of various user demands and budgets
 
-### IV. Front/Back End Support
+### B. Front/Back End Support
+   1. **Frontend:**
+      - User interface design for clean and simple interaction
+      - Utilization of Figma for wireframing
+   2. **Backend:**
+      - Firebase integration for real-time database, authentication, and hosting
+      - Future implementation for enhanced user management
 
-- **Backend:** Firebase will serve as the backend solution, offering features like real-time database, authentication, and hosting.
-  
-- **Frontend:** The user interface will be clean and simple, utilizing components such as buttons and input fields to enhance the user experience.
+### C. Functionality
+   1. Core features:
+      - Task creation, updating, and organization
+      - Alerts and reminders for task deadlines
+   2. Future enhancements:
+      - Due dates, categories, and collaboration options
 
-### V. Design
+### D. Design (Wireframes)
+   1. Utilization of Figma for wireframing
+   2. Emphasis on a clean, simple, and user-friendly design
+   3. Visual aids, buttons, and input fields for enhanced user experience
 
-To design a clean, simple, and user-friendly application, Figma will be utilized for creating wireframes. Once the wireframes are complete, UI elements will be selected and integrated into the application.
+## III. Version Changelog
 
-### VI. Version Changelog
+### A. Version 1.0 (Week 1 Submission)
+   - Initial project outline
+   - User research insights
+   - Core features definition
 
-#### Version 1.0
-- Initial outline submission.
+### B. Version 1.1 (Week 3 Submission)
+   - Selection of Figma for UI design
+   - UI/UX design process outlined
 
+### C. Version 1.2
+   - Introduction of version changelog section
+   - Progress in UI design using Figma
 
-#### Version 1.1
-- Selected Figma as the design tool.
-- Outlined the UI/UX design process.
+## IV. Conclusion
 
-#### Version 1.2
-- Added a version changelog section.
-- No major changes to the project outline; ongoing progress in UI design using Figma.
+### A. Future Updates
+   1. User testing for feedback
+   2. Firebase integration for backend support
+   3. Iterative refinement of UI design based on feedback
 
-### VII. Future Updates
+# End of Outline Report
 
-- Conduct user testing for feedback.
-- Begin Firebase integration for backend support.
-- Refine UI design based on feedback and testing results.
+This formal outline report aims to provide a structured and organized overview of the To-Do List App project, capturing its key components and evolution over the course of development.
