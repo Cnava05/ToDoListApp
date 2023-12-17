@@ -34,19 +34,19 @@
    2. Future enhancements:
       - Due dates, categories, and collaboration options
 
-### D. Design (Wireframes)
+### D. Design
    1. Utilization of Figma for wireframing
    2. Emphasis on a clean, simple, and user-friendly design
    3. Visual aids, buttons, and input fields for enhanced user experience
 
 ## III. Version Changelog
 
-### A. Version 1.0 (Week 1 Submission)
+### A. Version 1.0
    - Initial project outline
    - User research insights
    - Core features definition
 
-### B. Version 1.1 (Week 3 Submission)
+### B. Version 1.1 
    - Selection of Figma for UI design
    - UI/UX design process outlined
 
